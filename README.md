@@ -8,4 +8,5 @@
 yuranisdev/yuranisdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[yuranis_ojeda_resume.pdf](https://github.com/yuranisdev/yuranisdev/files/9277041/yuranis_ojeda_resume.pdf)
+
+[YuranisOjeda.pdf](https://github.com/yuranisdev/yuranisdev/files/9277135/YuranisOjeda.pdf)
