@@ -9,4 +9,4 @@ yuranisdev/yuranisdev is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[YuranisOjeda.pdf](https://github.com/yuranisdev/yuranisdev/files/9277135/YuranisOjeda.pdf)
+[Alejandro Ojeda.pdf](https://github.com/yuranisdev/yuranisdev/files/9288309/Alejandro.Ojeda.pdf)
