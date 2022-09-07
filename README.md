@@ -21,4 +21,6 @@ yuranisdev/yuranisdev is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[Alejandro Ojeda.pdf](https://github.com/yuranisdev/yuranisdev/files/9288309/Alejandro.Ojeda.pdf)
+[Alejandro Luis.pdf](https://github.com/yuranisdev/yuranisdev/files/9519215/Alejandro.Luis.pdf)
+
+Thanks
